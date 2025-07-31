@@ -1,4 +1,4 @@
-# Fitness-Tracker-Website
+
 # 🏋️‍♂️ Fitness Tracker Website
 
 This is a full-stack **Fitness Tracker Website** built using the **MERN Stack** (MongoDB, Express.js, React, Node.js). The application allows users to track their workouts, monitor progress, and gain insights into their fitness journey.
